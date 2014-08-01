@@ -84,3 +84,8 @@ The MIT License (MIT)
 
 - Fix example in readme
 - Update readme
+
+
+
+[![wercker status](https://app.wercker.com/status/153a3a7ee9e0906dceced1fcecd7e273/m "wercker status")](https://app.wercker.com/project/bykey/153a3a7ee9e0906dceced1fcecd7e273)
+
